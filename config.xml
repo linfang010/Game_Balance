@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <hero_file>data/hero.csv</hero_file>
+    <equip_file>data/equip.csv</equip_file>
+    <horse_file>data/horse.csv</horse_file>
+    <army_file>data/army.csv</army_file>
+    <book_file>data/book.csv</book_file>
+    <treasure_file>data/treasure.csv</treasure_file>
+    <junxie_file>data/junxie.csv</junxie_file>
+    <jinue_file>data/jinue.csv</jinue_file>
+    <qishu_file>data/qishu.csv</qishu_file>
+    <keji_file>data/science.csv</keji_file>
+    <castle_file>data/castle.csv</castle_file>
+    <dot_file>data/dot.csv</dot_file>
+    <hero_army_file>data/hero_army.csv</hero_army_file>
+    <tabu_url>http://192.168.5.101:10001/sanguo/ai/combination</tabu_url>
+    <ga_url>http://192.168.5.100:10001/sanguo/ai/combination</ga_url>
+    <HTTP>8080</HTTP>
+    <result>result/</result>
+    <process>2</process>
+</config>
